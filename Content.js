@@ -8,5 +8,5 @@ function clickButton()
     }
 }
 
-setInterval(clickButton, 10000);
+setInterval(clickButton, 1000);
 
