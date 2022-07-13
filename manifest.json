@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Twitch Bonus",
-    "description": "Auto redeems the twitch bonus. My github: https://github.com/slocksert",
+    "description": "Auto reedems the twitch bonus",
     "version": "1.0.3",
     "icons": {
         "16": "16.png",
